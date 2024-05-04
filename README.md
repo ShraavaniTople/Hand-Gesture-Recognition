@@ -1,1 +1,2 @@
 # Hand-Gesture-Recognition
+This project endeavors to alleviate communication barriers faced by millions of deaf or hard of hearing individuals in India by developing a Python-based software solution leveraging OpenCV, TensorFlow, and Mediapipe libraries. Through real-time interpretation of Indian Sign Language (ISL) gestures captured via camera feed, the software aims to facilitate seamless communication between ISL users and those unfamiliar with the language, thereby fostering inclusivity and societal integration.
